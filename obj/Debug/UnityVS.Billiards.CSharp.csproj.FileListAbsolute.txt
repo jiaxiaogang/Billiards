@@ -1,0 +1,10 @@
+D:\Billiards\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\Billiards\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Billiards\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.dll
+D:\Billiards\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Billiards\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Billiards\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Billiards\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Billiards\obj\Debug\UnityVS.Billiards.CSharp.csprojResolveAssemblyReference.cache
+D:\Billiards\obj\Debug\Assembly-CSharp.dll
+D:\Billiards\obj\Debug\Assembly-CSharp.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Billiards.CSharp", "UnityVS.Billiards.CSharp.csproj", "{2A549263-6371-1262-DAF5-9833781C32DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Billiards.CSharp.Editor", "UnityVS.Billiards.CSharp.Editor.csproj", "{75A9D613-600A-53DF-2CB0-F0CE829CA248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Billiards.CSharp.Plugins", "UnityVS.Billiards.CSharp.Plugins.csproj", "{1A108821-654D-B4D1-057D-3335F46726AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A549263-6371-1262-DAF5-9833781C32DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A549263-6371-1262-DAF5-9833781C32DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A549263-6371-1262-DAF5-9833781C32DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A549263-6371-1262-DAF5-9833781C32DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A9D613-600A-53DF-2CB0-F0CE829CA248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A9D613-600A-53DF-2CB0-F0CE829CA248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A9D613-600A-53DF-2CB0-F0CE829CA248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A9D613-600A-53DF-2CB0-F0CE829CA248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A108821-654D-B4D1-057D-3335F46726AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A108821-654D-B4D1-057D-3335F46726AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A108821-654D-B4D1-057D-3335F46726AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A108821-654D-B4D1-057D-3335F46726AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+D:\MyUnity3DProject\Billiards\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\MyUnity3DProject\Billiards\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\MyUnity3DProject\Billiards\Temp\bin\Debug\UnityEditor.dll
+D:\MyUnity3DProject\Billiards\Temp\bin\Debug\UnityEngine.dll
+D:\MyUnity3DProject\Billiards\Temp\bin\Debug\Mono.Cecil.dll
+D:\MyUnity3DProject\Billiards\Temp\bin\Debug\nunit.framework.dll
+D:\MyUnity3DProject\Billiards\Temp\bin\Debug\Unity.DataContract.dll
+D:\MyUnity3DProject\Billiards\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\MyUnity3DProject\Billiards\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+D:\MyUnity3DProject\Billiards\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\MyUnity3DProject\Billiards\obj\Debug\Assembly-CSharp-firstpass.pdb

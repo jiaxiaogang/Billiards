@@ -1,0 +1,15 @@
+D:\Billiards\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.dll
+D:\Billiards\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.pdb
+D:\Billiards\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.dll
+D:\Billiards\Temp\UnityVS_bin\Debug\Assembly-UnityScript.dll
+D:\Billiards\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+D:\Billiards\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+D:\Billiards\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Billiards\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Billiards\Temp\UnityVS_bin\Debug\UnityVS.VersionSpecific.dll
+D:\Billiards\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Billiards\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Billiards\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Billiards\obj\Debug\UnityVS.Billiards.CSharp.Editor.csprojResolveAssemblyReference.cache
+D:\Billiards\obj\Debug\Assembly-CSharp-Editor.dll
+D:\Billiards\obj\Debug\Assembly-CSharp-Editor.pdb
